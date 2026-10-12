@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/graphene-mongo/commit/3b174a827f7d51659ea84cc8399f70f4ce9d82dd",
       "git:hexsha": "3b174a827f7d51659ea84cc8399f70f4ce9d82dd",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.4.5"
     },
     {
