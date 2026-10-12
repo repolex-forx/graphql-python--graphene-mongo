@@ -1,0 +1,11 @@
+{
+  "org": "graphql-python",
+  "repo": "graphene-mongo",
+  "versions": [
+    {
+      "commit": "3b174a827f7d51659ea84cc8399f70f4ce9d82dd",
+      "tag": "v0.4.5",
+      "parsed_at": "2026-10-12T02:01:38.603990+00:00"
+    }
+  ]
+}
